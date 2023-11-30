@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^0.10.2"
+    "puppeteer": "^18.2.0"
   },
   "devDependencies": {
   }
